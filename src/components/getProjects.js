@@ -1,0 +1,9 @@
+export const projects = [
+    { "id": 1, "name": "Attendance-Manager", "link": "https://attendance-man.netlify.app/", "img": "./images/attdmanager.png", "tech": ["HTML", "CSS", "JAVASCRIPT", "REACT", "MongoDB", "Express", "NodeJS"], "github": "https://github.com/adityadas20/attendance-manager-client" },
+    { "id": 2, "name": "AEnigma", "link": "https://aenigma.netlify.app/", "img": "./images/ae2.png", "tech": ["WEBSITE: REACT", "APP: ANDROID STUDIO, JAVA"], "github": "https://github.com/adityadas20/AEnigma" },
+    { "id": 3, "name": "QuickHelp", "link": "https://quickhelper.netlify.app/", "img": "./images/quickhelp.png", "tech": ["HTML", "CSS", "JAVASCRIPT", "REACT", "Dijkstra's Algorithm"], "github": "https://github.com/adityadas20/QuickHelp" },
+    { "id": 4, "name": "Memory Game", "link": "https://memorygamefun.netlify.app/", "img": "./images/memorygame.png", "tech": ["HTML", "CSS", "JAVASCRIPT", "REACT"], "github": "https://github.com/adityadas20/memory-game" },
+    { "id": 5, "name": "FunWithMovies", "link": "https://funwithmovies.netlify.app/", "img": "./images/movies.png", "tech": ["HTML", "CSS", "JAVASCRIPT", "REACT"], "github": "https://github.com/adityadas20/funwithmovies" },
+    { "id": 6, "name": "Yelp-Camp", "link": "https://polar-beyond-86932.herokuapp.com/", "img": "./images/yc0.png", "tech": ["MongoDB", "Express", "NodeJS", "Mapbox", "Cloudinary"], "github": "https://github.com/adityadas20/YelpCamp" },
+    { "id": 7, "name": "HackerRank Automation", "link": "https://github.com/adityadas20/code-solver", "img": "./images/automation.png", "tech": ["NodeJS", "PUPPETEER"], "github": "https://github.com/adityadas20/code-solver" }
+]
